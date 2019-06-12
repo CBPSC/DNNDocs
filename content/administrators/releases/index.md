@@ -1,8 +1,13 @@
 ﻿---
 uid: releases
 locale: en
+<<<<<<< HEAD:content/administrators/releases/index.md
 title: releases
 dnnversion: 09.03.01
+=======
+title: Product Versions
+dnnversion: 09.03.02
+>>>>>>> 1012424ea6bda1ebc5df7ca6b61dbc0a16626671:content/administrators/product-versions/index.md
 related-topics: administrators-included-modules-overview,requirements,dnn-overview,control-bar-to-persona-bar,persona-bar-by-role,providers,more-resources
 ---
 
@@ -12,6 +17,7 @@ related-topics: administrators-included-modules-overview,requirements,dnn-overvi
 
 |**Release Date**|**Version**|
 |---|---|
+|2019 May 01|[9.3.2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.3.2)|
 |2019 Apr 01|[9.3.1](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.3.1)|
 |2018 Oct 01|[9.2.2](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.2.2)|
 |2018 Aug 08|[9.2.1](https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.2.1)|
